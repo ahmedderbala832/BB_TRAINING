@@ -697,7 +697,7 @@ DMA_TX("\n");
 TOGGLE_RED_LED();
 }  
 
-
+//TEST
 int main(void)
 {
   
